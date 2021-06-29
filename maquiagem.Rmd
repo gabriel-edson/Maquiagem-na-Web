@@ -9,7 +9,7 @@ output:
 <meta name="viewport" content="width=device-width">
 
 <center>
-[![](figure/banner3.jpg){height=280px}](https://go.hotmart.com/V56123331T)
+[![](figure/banner3.jpg){height=270px}](https://go.hotmart.com/V56123331T)
 </center>
 
 <br/>
@@ -19,7 +19,7 @@ output:
 </center>
 
 <div align="justify">
-<font size="4">
+<font size="4.5">
 
 <br/>
 
