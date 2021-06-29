@@ -1,35 +1,48 @@
 ---
 title: "MAQUIAGEM NA WEB"
-#author: "Bleza e Bem Estar"
+#author: "Beleza e Bem Estar"
 #date: "29/06/2021"
 output: 
   flexdashboard::flex_dashboard
 ---
 
 <meta name="viewport" content="width=device-width">
-<span style="color:blue">some <em>blue</em> text</span>
 
 <center>
-<font size="5">**CURSO DE MAQUIAGEM NA WEB**</font>
+[![](figure/banner3.jpg){height=280px}](https://go.hotmart.com/V56123331T)
+</center>
+
+<br/>
+
+<center>
+<font size="6">**CURSO DE MAQUIAGEM NA WEB**</font>
 </center>
 
 <div align="justify">
 <font size="4">
 
-O Curso Maquiagem na Web é totalmente Online, disponível por 1 ano, 24 horas por dia. São mais de 35 vídeo aulas+ atualizações de novas aulas + certificado Você pode fazer de onde quiser e em qualquer horário, pelo Celular ou Computador Aulas passo a passo, do básico até as técnicas mais avançadas e cheio de dicas e truques para makes incríveis.
+<br/>
 
-<center>
-[![](figure/banner3.jpg){height=250px}](https://go.hotmart.com/V56123331T?ap=8cc4)
-</center>
+<font size="5">Conheça também a [VERSÃO COM DIREITO A QUATRO USUÁRIOS](https://go.hotmart.com/V56123331T?ap=8cc4)!
+
+[CLICK AQUI](https://go.hotmart.com/V56123331T) para acessar a página oficial do curso!!
+
+</font>
 
 <br/>
-## aqui 2
 
-Gabriel Edson SOusa da Silva
+O Curso Maquiagem na Web é totalmente Online, disponível por 1 ano, 24 horas por dia. São mais de 35 vídeo aulas+ atualizações de novas aulas + certificado Você pode fazer de onde quiser e em qualquer horário, pelo Celular ou Computador Aulas passo a passo, do básico até as técnicas mais avançadas e cheio de dicas e truques para makes incríveis.
+
+<br/>
+
+<font size="5">
+✅ Curso 100% Em Vídeo Aulas Online ✅ Certificado Incluso ✅ 1 ano de Acesso ✅ Suporte diretamente com a Andréia ✅ Acesso Imediato ✅ Técnicas Novas e Atualizadas ✅ Curso Online de Maquiagem Mais Vendido do Brasil ✅ + de 10 Mil Alunas Satisfeitas ✅ Grupo Vip de Alunas ✅ Avaliações das Técnicas Ensinadas ✅ Desafios Semanais e muito mais ...
+<font>
+<br/>
+
 <center>
-[![](figure/banner.png){height=350px}](https://go.hotmart.com/V56123331T?ap=8cc4)
+[![](figure/banner.png){height=300px}](https://go.hotmart.com/V56123331T)
 </center>
 
 </font>
 </div>
-
