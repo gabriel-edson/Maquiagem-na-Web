@@ -1,0 +1,35 @@
+---
+title: "MAQUIAGEM NA WEB"
+#author: "Bleza e Bem Estar"
+#date: "29/06/2021"
+output: 
+  flexdashboard::flex_dashboard
+---
+
+<meta name="viewport" content="width=device-width">
+<span style="color:blue">some <em>blue</em> text</span>
+
+<center>
+<font size="5">**CURSO DE MAQUIAGEM NA WEB**</font>
+</center>
+
+<div align="justify">
+<font size="4">
+
+O Curso Maquiagem na Web é totalmente Online, disponível por 1 ano, 24 horas por dia. São mais de 35 vídeo aulas+ atualizações de novas aulas + certificado Você pode fazer de onde quiser e em qualquer horário, pelo Celular ou Computador Aulas passo a passo, do básico até as técnicas mais avançadas e cheio de dicas e truques para makes incríveis.
+
+<center>
+[![](figure/banner3.jpg){height=250px}](https://go.hotmart.com/V56123331T?ap=8cc4)
+</center>
+
+<br/>
+## aqui 2
+
+Gabriel Edson SOusa da Silva
+<center>
+[![](figure/banner.png){height=350px}](https://go.hotmart.com/V56123331T?ap=8cc4)
+</center>
+
+</font>
+</div>
+
