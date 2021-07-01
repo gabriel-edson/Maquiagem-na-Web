@@ -1,21 +1,25 @@
 ---
-title: "MAQUIAGEM NA WEB"
+#title: "MAQUIAGEM NA WEB"
 #author: "Beleza e Bem Estar"
 #date: "29/06/2021"
 output: 
-  flexdashboard::flex_dashboard
+  html_document
 ---
 
 <meta name="viewport" content="width=device-width">
 
 <center>
-[![](figure/banner3.jpg){height=270px}](https://go.hotmart.com/V56123331T)
+[![](figure/banner3.jpg){width=device-width}](https://go.hotmart.com/V56123331T)
 </center>
 
 <br/>
 
 <center>
-<font size="6">**CURSO DE MAQUIAGEM NA WEB**</font>
+<font size="6"><p style="color:blue">**CURSO DE MAQUIAGEM NA WEB 2.0**</p>
+
+<p style="font-family:'Courier New'">This is another paragraph.</p>
+
+</font>
 </center>
 
 <div align="justify">
